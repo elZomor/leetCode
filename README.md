@@ -3,7 +3,9 @@ Leetcode study plan problems solved in Java
 This code contains the following problems
 
 <h2 align="center">Data Structure</h2>
-<h3 align="center"> Level I
+<h3 align="center"> Level I</h3>
+
+
 | **_Category_** | **_Number_** |            **_Name_**           |            **_HashTags_**           | **_Level_** |
 |:--------------:|:------------:|:-------------------------------:|:-----------------------------------:|:-----------:|
 |      Array     |      217     |        Contains Duplicate       |    Array<br>Hash Table<br>Sorting   |     Easy    |
@@ -15,6 +17,7 @@ This code contains the following problems
 
 <h2 align="center">Algorithms</h2>
 <h3 align="center">Level I</h3>
+
 | **_Category_** | **_Number_** |             **_Name_**             |             **_HashTags_**             | **_Level_** |
 |:--------------:|:------------:|:----------------------------------:|:--------------------------------------:|:-----------:|
 |  Binary Search |      704     |            Binary Search           |         Array<br>Binary Search         |     Easy    |
